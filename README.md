@@ -16,4 +16,7 @@ The GeoLite2 databases are distributed under the [Creative Commons Attribution-S
 ```
 This product includes GeoLite2 data created by MaxMind, available from
 <a href="http://www.maxmind.com">http://www.maxmind.com</a>.
+
+# Updated 
+July 13, 2016
 ```
